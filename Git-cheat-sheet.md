@@ -31,6 +31,11 @@ Es un sistema de control de versiones distribuido, lo que significa que un clon 
 + En cuanto a la funcionalidad de las ramas, las mismas están destinadas a provocar proyectos divergentes de un proyecto principal, para hacer experimentos o para probar nuevas funcionalidades.
 Las ramas pueden tener una línea de progreso diferente de la rama principal donde está el core de nuestro desarrollo. 
 
+<br>
+
+# Función 
+Con Git vamos a poder controlar todos los cambios que se hacen en nuestra aplicación y en nuestro código y vamos a tener control absoluto de todo lo que pasa en el código, pudiendo volver atrás en el tiempo, pudiendo abrir diferentes ramas de desarrollo, etc. Podremos trabajar en equipo de una manera muy sencilla y optimizada, de forma que si tenemos dos o tres personas trabajando en diferentes partes mientras que podemos estar trabajando en nuestra parte del código. Cuando acabamos de desarrollar nuestro código, utilizamos Git para mezclar los cambios con los otros compañeros. 
+
 
 
 

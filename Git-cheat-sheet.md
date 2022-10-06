@@ -56,6 +56,9 @@ Es un repositorio online gratuito que permite gestionar proyectos y controlar ve
 
 Se podría hablar de Github como la red social pensada para desarrolladores, siendo este repositorio uno de los más usados a nivel mundial. Podemos seguir e interactuar con personas interesadas en un tipo de proyecto en concreto, dando a conocer los nuestros o cooperando en el proyecto de terceros.
 
+<br>
 
+# Relación de Git y Github
+Git y GitHub sirven para proveer el control de un código, unificarlo e inclusive compartirlo, pero estas son todas las similaridades de las dos plataformas, según señala el portal Simple Learn. De hecho, señala que, si buscáramos una analogía, Git sería un computador, mientras que Github representaría una red de computadores que están llevando a cabo una misma tarea, pero con diferentes métodos.
 
 

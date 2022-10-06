@@ -61,4 +61,17 @@ Se podría hablar de Github como la red social pensada para desarrolladores, sie
 # Relación de Git y Github
 Git y GitHub sirven para proveer el control de un código, unificarlo e inclusive compartirlo, pero estas son todas las similaridades de las dos plataformas, según señala el portal Simple Learn. De hecho, señala que, si buscáramos una analogía, Git sería un computador, mientras que Github representaría una red de computadores que están llevando a cabo una misma tarea, pero con diferentes métodos.
 
+<br>
+
+# -Glosario- 
+
+- Repositorio: es el lugar en el que se almacena y se puede realizar la distribución del código de una aplicación o un programa. Este debe ser un servidor seguro que utiliza sistemas de control de versiones.
+
+<br>
+
+- Kernel: es definido como el núcleo o corazón del sistema operativo, y se encarga principalmente de mediar entre los procesos de usuario y el hardware disponible en la máquina, es decir, concede el acceso al hardware, al software que lo solicite, de una manera segura; y el procesamiento paralelo de varias tareas 
+
+- Ramas: parte dependientes del proyecto que permiten a los programadores trabajar varios detalles por separado y después juntarlo con el resto del proyecto.
+
+
 

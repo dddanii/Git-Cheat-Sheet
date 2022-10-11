@@ -2,7 +2,7 @@
 
 # **Tema: Git**
 
-# *Índice* 
+# <center> *Índice* 
 ## 1. Concepto
 ## 2. Caracteríticas
 ## 3. Función
@@ -51,6 +51,8 @@ Capaz de manejar grandes proyectos (como el kernel de Linux) eficientemente (vel
 <br>
 
 # ¿Qué es Github?
+
+![](githubb.jpg)
 
 Es un repositorio online gratuito que permite gestionar proyectos y controlar versiones de código. Es muy utilizado por desarrolladores para almacenar sus trabajos dando así la oportunidad a millones de personas de todo el mundo a cooperar en ellos.
 

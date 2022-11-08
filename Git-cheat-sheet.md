@@ -52,7 +52,7 @@ Capaz de manejar grandes proyectos (como el kernel de Linux) eficientemente (vel
 
 # ¿Qué es Github?
 
-![](githubb.jpg)
+![](githubb.jpg) 
 
 Es un repositorio online gratuito que permite gestionar proyectos y controlar versiones de código. Es muy utilizado por desarrolladores para almacenar sus trabajos dando así la oportunidad a millones de personas de todo el mundo a cooperar en ellos.
 
